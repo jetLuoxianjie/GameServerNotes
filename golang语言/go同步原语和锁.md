@@ -4,7 +4,7 @@
 
 Go语言在sync包中提供了用于同步的一些基本原语。
 
-![](./images/sync原语.png)
+![](..//images/sync原语.png)
 
 >在Go语言中推荐使用抽象更高的**Channel**实现同步
 
